@@ -1,5 +1,5 @@
 # HTMLs
-```html
+
 <HTML>
 <head>
 <title><title> tag for for info on Browser-Tab</title>
@@ -820,4 +820,4 @@ Use name attribute to give "name" to each input tag. This name will be used alon
 
 <br>
 </body>
-<HTML>```
+<HTML>
